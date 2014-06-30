@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: structdef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 41F64F7F-EFC8-4CDE-B129-EBC903B10F3F
+// IDECodeSnippetIdentifier: A49469B7-47C5-4838-9A4D-0F9F23ABD804
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 struct <#struct name#> {
   <#struct fields#>
 };
