@@ -3,8 +3,8 @@
 //
 // IDECodeSnippetCompletionPrefix: typedefBlock
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: C1952C54-2451-4095-858E-17BA5721F630
+// IDECodeSnippetIdentifier: 93007A03-9749-4F3F-A0C7-D1F4627B5E7C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 typedef <#returnType#>(^<#name#>)(<#arguments#>);
