@@ -1,4 +1,4 @@
-// Kiwi: theValue should be false
+// kiwi:_thevalue_should_be_false
 // 
 //
 // IDECodeSnippetCompletionPrefix: sbf
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: theValue should be false
 [[theValue(<#something#>) should] beFalse];

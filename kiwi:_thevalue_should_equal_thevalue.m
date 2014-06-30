@@ -1,4 +1,4 @@
-// Kiwi: theValue should equal theValue
+// kiwi:_thevalue_should_equal_thevalue
 // 
 //
 // IDECodeSnippetCompletionPrefix: tvseq
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: theValue should equal theValue
 [[theValue(<#expr#>) should] equal:theValue(<#expr#>)];

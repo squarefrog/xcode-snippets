@@ -1,4 +1,4 @@
-// Kiwi: Stub and return with arguments
+// kiwi:_stub_and_return_with_arguments
 // 
 //
 // IDECodeSnippetCompletionPrefix: snra
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: Stub and return with arguments
 [<#something#> stub:@selector(<#selector#>) andReturn:<#something#> withArguments:<#args#>,nil];

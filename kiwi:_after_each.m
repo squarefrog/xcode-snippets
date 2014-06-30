@@ -1,4 +1,4 @@
-// Kiwi: after each
+// kiwi:_after_each
 // 
 //
 // IDECodeSnippetCompletionPrefix: aft
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: after each
 afterEach(^{
     <# teardown code #>
 });

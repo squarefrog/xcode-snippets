@@ -1,4 +1,4 @@
-// Kiwi: context
+// kiwi:_context
 // 
 //
 // IDECodeSnippetCompletionPrefix: con
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: context
 context(@"<# when #>", ^{
         <#code#>
     });

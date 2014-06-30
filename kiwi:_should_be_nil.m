@@ -1,4 +1,4 @@
-// Kiwi: should be nil
+// kiwi:_should_be_nil
 // 
 //
 // IDECodeSnippetCompletionPrefix: sbn
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: should be nil
 [[<# object #> should] beNil];

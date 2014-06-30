@@ -1,4 +1,4 @@
-// Kiwi: the value
+// kiwi:_the_value
 // 
 //
 // IDECodeSnippetCompletionPrefix: tv
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: the value
 theValue(<#expr#>)

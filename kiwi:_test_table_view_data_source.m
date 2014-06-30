@@ -1,4 +1,4 @@
-// Kiwi: Test Table View Data Source
+// kiwi:_test_table_view_data_source
 // 
 //
 // IDECodeSnippetCompletionPrefix: tvds
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: Test Table View Data Source
 it(@"should return sections", ^{
                 NSInteger sections = [sut.tableView numberOfSections];
                 [[theValue(sections) should] equal:theValue(0)];

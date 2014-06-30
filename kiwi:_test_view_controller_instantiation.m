@@ -1,4 +1,4 @@
-// Kiwi: Test View Controller Instantiation
+// kiwi:_test_view_controller_instantiation
 // 
 //
 // IDECodeSnippetCompletionPrefix: tvci
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: Test View Controller Instantiation
 
 __block <# Class #> *sut;
 

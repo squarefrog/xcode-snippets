@@ -1,4 +1,4 @@
-// Kiwi: should recieve with arguements
+// kiwi:_should_recieve_with_arguements
 // 
 //
 // IDECodeSnippetCompletionPrefix: srwa
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: should recieve with arguements
 [[<# object #> should] receive:@selector(<# selector #>) withArguments:<# arguments #>, nil];

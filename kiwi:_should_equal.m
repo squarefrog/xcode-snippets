@@ -1,4 +1,4 @@
-// Kiwi: should equal
+// kiwi:_should_equal
 // 
 //
 // IDECodeSnippetCompletionPrefix: seq
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: should equal
 [[<#something#> should] equal:<#something#>];

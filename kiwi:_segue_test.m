@@ -1,4 +1,4 @@
-// Kiwi: Segue Test
+// kiwi:_segue_test
 // 
 //
 // IDECodeSnippetCompletionPrefix: tseg
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: Segue Test
 context(@"when performing segue", ^{
     
 	__block id mockDestination;

@@ -1,4 +1,4 @@
-// Kiwi: should contain
+// kiwi:_should_contain
 // 
 //
 // IDECodeSnippetCompletionPrefix: scon
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: should contain
 [[<# object #> should] contain:<# object #>];

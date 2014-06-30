@@ -1,4 +1,4 @@
-// Kiwi: it
+// kiwi:_it
 // 
 //
 // IDECodeSnippetCompletionPrefix: it
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: it
 it(@"<# should #>", ^{
     <# test something #>
 });

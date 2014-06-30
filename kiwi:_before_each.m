@@ -1,4 +1,4 @@
-// Kiwi: before each
+// kiwi:_before_each
 // 
 //
 // IDECodeSnippetCompletionPrefix: bef
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// Kiwi: before each
 beforeEach(^{
     <# the setup #>
 });
