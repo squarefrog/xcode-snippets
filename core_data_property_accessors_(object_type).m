@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: 
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 5DA67A34-6770-496E-8043-67FBA237CA5D
+// IDECodeSnippetIdentifier: 669021FD-C032-4D6D-B4AD-96C248037CEC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (<#propertyObjectType#> *)<#propertyName#>
 {
     [self willAccessValueForKey:@"<#propertyName#>"];
