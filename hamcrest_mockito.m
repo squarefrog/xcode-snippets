@@ -1,6 +1,7 @@
 // Hamcrest Mockito
 // 
 //
+// IDECodeSnippetCompletionPrefix: ham
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 377B2B5A-9859-48DD-8FE4-3C134F052C2B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
