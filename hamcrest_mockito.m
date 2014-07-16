@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 377B2B5A-9859-48DD-8FE4-3C134F052C2B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #define HC_SHORTHAND
 #import <OCHamcrest/OCHamcrest.h>
 
