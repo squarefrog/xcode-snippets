@@ -1,5 +1,5 @@
 // GCD: Background queue
-// 
+// Create a default queue, and then perform some code on the main queue
 //
 // IDECodeSnippetCompletionPrefix: dispatch
 // IDECodeSnippetCompletionScopes: [CodeBlock]
