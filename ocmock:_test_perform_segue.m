@@ -1,6 +1,7 @@
 // OCMock: Test Perform Segue
 // 
 //
+// IDECodeSnippetCompletionPrefix: testseg
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 5D2824BC-9C04-4683-8FA4-5A9E20A022B4
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
