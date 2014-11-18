@@ -8,6 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: it
+// kiwi: _it
 it(@"<# should #>", ^{
     <# test something #>
 });

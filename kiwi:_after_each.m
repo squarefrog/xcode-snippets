@@ -8,6 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: after each
+// kiwi: _after_each
 afterEach(^{
     <# teardown code #>
 });

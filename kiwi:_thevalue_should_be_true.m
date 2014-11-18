@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: theValue should be true
+// kiwi: _thevalue_should_be_true
 [[theValue(<#something#>) should] beTrue];

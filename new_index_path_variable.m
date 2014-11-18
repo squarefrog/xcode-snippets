@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: 147BA2AE-2CEF-455F-969C-B977293B6303
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 NSIndexPath *indexPath = [NSIndexPath indexPathForRow:<#(NSInteger)#> inSection:<#(NSInteger)#>];

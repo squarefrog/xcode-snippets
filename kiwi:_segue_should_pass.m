@@ -8,6 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: Segue should pass
+// kiwi: _segue_should_pass
 it(@"should pass <# property name #>", ^{
     
 	[[[mockDestination should] receive] <# Destination setter #>:<# Source getter #>];

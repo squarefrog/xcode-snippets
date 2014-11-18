@@ -1,6 +1,7 @@
 // block:_local_variable
 // Declare a local variable block
 //
+// block: _local_variable
 // Block: Local Variable
 // IDECodeSnippetCompletionPrefix: blockvar
 // IDECodeSnippetCompletionScopes: [All]

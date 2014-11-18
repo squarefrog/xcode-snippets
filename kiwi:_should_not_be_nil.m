@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: should not be nil
+// kiwi: _should_not_be_nil
 [[<# object #> shouldNot] beNil];

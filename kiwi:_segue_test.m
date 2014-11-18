@@ -8,6 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: Segue Test
+// kiwi: _segue_test
 context(@"when performing segue", ^{
     
 	__block id mockDestination;

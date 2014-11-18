@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: should contain
+// kiwi: _should_contain
 [[<# object #> should] contain:<# object #>];

@@ -8,6 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: context
+// kiwi: _context
 context(@"<# when #>", ^{
         <#code#>
     });

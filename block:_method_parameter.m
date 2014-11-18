@@ -1,6 +1,7 @@
 // block:_method_parameter
 // Create a method with a block parameter
 //
+// block: _method_parameter
 // Block: Method Parameter
 // IDECodeSnippetCompletionPrefix: blockmethod
 // IDECodeSnippetCompletionScopes: [ClassImplementation]

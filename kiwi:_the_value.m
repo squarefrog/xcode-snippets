@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: the value
+// kiwi: _the_value
 theValue(<#expr#>)

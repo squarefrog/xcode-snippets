@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: should recieve with arguements
+// kiwi: _should_recieve_with_arguements
 [[<# object #> should] receive:@selector(<# selector #>) withArguments:<# arguments #>, nil];

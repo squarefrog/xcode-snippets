@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: stub and return
+// kiwi: _stub_and_return
 [<#something#> stub:@selector(<#selector#>) andReturn:<#something#>];

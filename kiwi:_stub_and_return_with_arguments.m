@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: Stub and return with arguments
+// kiwi: _stub_and_return_with_arguments
 [<#something#> stub:@selector(<#selector#>) andReturn:<#something#> withArguments:<#args#>,nil];

@@ -1,4 +1,4 @@
-// OCMock: Test Perform Segue
+// ocmock:_test_perform_segue
 // 
 //
 // IDECodeSnippetCompletionPrefix: testseg
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// OCMock: Test Perform Segue
 it(@"should perform segue", ^{
     id mockNavigationController = [OCMockObject mockForClass:[UINavigationController class]];
     id sutMock = [OCMockObject partialMockForObject:sut];

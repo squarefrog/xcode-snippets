@@ -8,4 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // Kiwi: should equal
+// kiwi: _should_equal
 [[<#something#> should] equal:<#something#>];
