@@ -1,4 +1,4 @@
-// Mock Class Method
+// OCMock Class Method
 // 
 //
 // IDECodeSnippetCompletionPrefix: ocmclass
