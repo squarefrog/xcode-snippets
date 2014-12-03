@@ -7,5 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-defaultsMock = OCMClassMock([NSUserDefaults class]);
+id <# = OCMClassMock([NSUserDefaults class]);
         OCMStub([defaultsMock standardUserDefaults]).andReturn(defaultsMock);
