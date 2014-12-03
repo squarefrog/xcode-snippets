@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 id <# var #> = OCMClassMock([<# Class #> class]);
-OCMStub([<# var £ standardUserDefaults]).andReturn(defaultsMock);
+OCMStub([<# var #> <]).andReturn(defaultsMock);
